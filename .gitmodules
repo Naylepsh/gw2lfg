@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Naylepsh/gw2lfg-client
+[submodule "server"]
+	path = server
+	url = https://github.com/Naylepsh/gw2lfg-server
